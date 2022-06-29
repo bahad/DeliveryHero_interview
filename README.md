@@ -1,16 +1,15 @@
-# defacto_interview
+# deliveryHero_interview
 
-A new Flutter project.
+This application was tested with Iphone Se 3.rd Generation.
 
-## Getting Started
+Application Properties
 
-This project is a starting point for a Flutter application.
+State management with Provider,
+Mvvm Design Pattern
+Lazy loading list with Pull to Refresh,
+Image caching with Caching Network Image,
+Lottie Animations,
+Sqlite for data persistence,
+Http Request with Http
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
